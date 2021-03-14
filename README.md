@@ -1,2 +1,4 @@
 # Simple-Chat_App
-Simple Chat App - Tact Chat
+Simple Chat App In HTML
+
+Intergrated With Socket
